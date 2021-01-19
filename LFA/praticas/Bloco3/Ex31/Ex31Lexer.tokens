@@ -1,0 +1,10 @@
+T__0=1
+T__1=2
+SEP=3
+STRING=4
+TEXT=5
+WS=6
+COMMENT=7
+'\r'=1
+'\n'=2
+','=3

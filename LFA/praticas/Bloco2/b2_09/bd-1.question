@@ -1,0 +1,9 @@
+antlr.P1("O ANTLR4 permite...") {
+  "construir um interpretador para uma linguagem":100;
+  "construir um compilador para uma linguagem":100;
+  "paralelizar um programa":0;
+  "processar ficheiros de especificação de linguagens concebidos para lex e yacc":0;
+  "a geração automática de código de processamento de
+   uma linguagem em qualquer outra linguagem":0;
+  "verificar se um programa está correcto":0;
+}
