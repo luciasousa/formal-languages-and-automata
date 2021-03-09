@@ -1,2 +1,2 @@
 # formal-languages-and-automata
-LFA exercises
+LFA exercises and project
